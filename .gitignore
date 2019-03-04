@@ -1,0 +1,10 @@
+node_modules/
+build/
+.idea/
+npm-debug.log
+.dockerenv
+*.swp
+*~
+*.iml
+
+*.DS_Store

@@ -1,0 +1,15 @@
+{
+  "name": "sree-palaparthi-website",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "author": "Sree Palaparthi <palaparthi.s@husky.neu.edu>",
+  "license": "MIT",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
